@@ -9,6 +9,8 @@ A game developer with 3+ years of LuaU experience specializing in gameplay scrip
 Dont Leave Your TV On gained notable recognition being played by Youtubers such as 
 - Thinknoodles: [Youtube Link](https://www.youtube.com/watch?v=CnTxw1JxsrU) **12.3M Subscribers**
 - Sketch: [Youtube Link](https://www.youtube.com/watch?v=NCzQ52cdJe4) **5.37M Subscribers**
+- Foltyn [Youtube Link](https://www.youtube.com/watch?v=1gUyXuu50P0) **7.28M Subscribers**
+- Jayingee [Youtube Link](https://www.youtube.com/watch?v=yKdPs7lIiM0) **2.14M Subscribers**
 
 ## Professional Experience
 - [Don't Leave Your TV On](https://www.roblox.com/games/14239772624/Dont-Leave-Your-TV-On) **__6M Visits__**
