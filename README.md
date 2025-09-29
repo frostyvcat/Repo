@@ -4,7 +4,7 @@
 
 
 ## Professional Summary
-A game developer with more than 3 years of LuaU experience. Worked on [Don't Leave Your TV On](https://www.roblox.com/games/14239772624/Dont-Leave-Your-TV-On)
+A game developer with more than 3 years of LuaU experience. Worked on [Don't Leave Your TV On](https://www.roblox.com/games/14239772624/Dont-Leave-Your-TV-On), [Street Projects](https://www.roblox.com/games/70918042652271/FREE-GUNS-Street-Projects), [Forked Humans(https://www.roblox.com/games/119873572281324/Fork-Humans-UPD)] as a scripter.
 
 ## Past work / OSS
 - [Don't Leave Your TV On](https://www.roblox.com/games/14239772624/Dont-Leave-Your-TV-On) **__6M Visits__**
