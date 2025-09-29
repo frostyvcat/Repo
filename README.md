@@ -1,5 +1,6 @@
 ## Contact Information
-- Discord: awrjosip8
+- Discord: **awrjosip8**
+- Roblox: [frosty cat](https://www.roblox.com/users/68904454/profile)
 
 
 ## Professional Summary
